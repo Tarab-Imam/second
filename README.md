@@ -1,4 +1,4 @@
 # second
 It's my second repository.
 <br>
-In this repository,I have used python.
+I have used python in the following repository.
